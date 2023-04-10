@@ -1,5 +1,3 @@
-# BalkanIDSubmission
-Submission for BalkanID Internship Task
 Modules to install and import:
 PostgreSQL
 Flask
